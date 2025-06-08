@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I'm Yasmine
 
-<!--
-**Jaxzy51/Jaxzy51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves turning complex problems into clean, scalable solutions. My focus is on building robust full-stack applications, well-structured APIs, and secure authentication systems. I thrive in fast-paced environments and enjoy learning new technologies to stay ahead in the ever-evolving tech world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Tools
+
+**Languages:**  
+HTML/CSS, JavaScript, TypeScript, Python, SQL, Java, C#, Ruby on Rails, Flask, React
+
+**Operating Systems:**  
+Windows, macOS
+
+**Database Systems:**  
+MySQL, PostgreSQL, Microsoft SQL Server
+
+**Technologies & Tools:**  
+Node.js, Express.js, REST APIs, GraphQL, Postman, Git, JWT Authentication
+
+**Cloud Services:**  
+Google Cloud, AWS, Microsoft Azure, Oracle Cloud, DigitalOcean
+
+---
+
+📫 Feel free to connect or check out my work!
