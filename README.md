@@ -4,23 +4,23 @@ I'm a software engineer who loves turning complex problems into clean, scalable 
 
 ---
 
-### 🧠 Skills & Tools
+### ⚙️ Technical Skills
 
-**Languages:**  
-HTML/CSS, JavaScript, TypeScript, Python, SQL, Java, C#, Ruby on Rails, Flask, React
+**Languages & Markup:**  
+HTML5, CSS3, JavaScript, TypeScript, Python, SQL, Java, C#, Ruby on Rails, React, Flask
 
 **Operating Systems:**  
 Windows, macOS
 
-**Database Systems:**  
+**Databases:**  
 MySQL, PostgreSQL, Microsoft SQL Server
 
-**Technologies & Tools:**  
-Node.js, Express.js, REST APIs, GraphQL, Postman, Git, JWT Authentication
+**Frameworks & Tools:**  
+Node.js, Express.js, REST APIs, GraphQL, Postman, Git, JWT Authentication, Docker
 
-**Cloud Services:**  
+**Cloud Platforms:**  
 Google Cloud, AWS, Microsoft Azure, Oracle Cloud, DigitalOcean
 
 ---
 
-📫 Feel free to connect or check out my work!
+📫 Let's connect and build something impactful together.
